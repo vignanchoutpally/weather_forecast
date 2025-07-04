@@ -1,15 +1,5 @@
 # weather-forecast
 
-*COMPANY*: CODTECH IT SOLUTIONS 
-
-*NAME*: Choutpally Vignan
-
-*INTERN ID*: CT08WT223
-
-*DOMAIN*: Full Stack Development
-
-*MENTOR*: NEELA SANTOSH
-
 *LIVE DEMO*: [Visit the Weather App](https://vignanweatherforecast.netlify.app)
 
 This project is a Weather Application built using a combination of web technologies: HTML, CSS, and JavaScript, alongside the OpenWeatherMap API to retrieve real-time weather data. The application allows users to input a city name and receive current weather details such as temperature and weather conditions.
